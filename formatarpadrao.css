@@ -1,0 +1,47 @@
+body{ background-color: #C1FFC1;} 
+p { color: black; } 
+h3{ color: black; }
+
+
+form {
+background-color:#C1FFC1;
+font: 20px georgia, sans-serif;
+color:#8B0A50;
+margin-right: 50px;
+}
+
+table {
+background-color:#E8E8E8;
+font: 20px georgia, sans-serif;
+color:#8B0A50;
+margin-right: 50px;
+text-align: center;
+}
+
+input {
+background-color:#d7f8d7;
+font: 15px georgia, sans-serif;
+color: black;
+border:1px solid #9fe796;
+}
+
+select {
+background-color:#d7f8d7;
+font: 15px georgia, sans-serif;
+color: black;
+border:1px solid  #9fe796;
+}
+
+.botao {
+background-color:#9e6f9e;
+font: 11px georgia, sans-serif;
+color: white;
+margin-right: 50px;
+}
+
+.campos {
+background-color:  #9fe796;
+font: 11px georgia, sans-serif;
+color:black;
+margin-right: 50px;
+}
